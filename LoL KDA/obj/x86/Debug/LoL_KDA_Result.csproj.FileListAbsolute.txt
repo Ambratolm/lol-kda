@@ -1,0 +1,3 @@
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\C# .NET Projects\LoL_KDA_Result\LoL_KDA_Result\obj\x86\Debug\LoL_KDA_Result.Form1.resources
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\C# .NET Projects\LoL_KDA_Result\LoL_KDA_Result\obj\x86\Debug\LoL_KDA_Result.Properties.Resources.resources
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\C# .NET Projects\LoL_KDA_Result\LoL_KDA_Result\obj\x86\Debug\LoL_KDA_Result.csproj.GenerateResource.Cache

@@ -1,0 +1,7 @@
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\C# .NET Projects\LoL_KDA_Result\LoL_KDA_Result\bin\Release\LolKda.exe
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\C# .NET Projects\LoL_KDA_Result\LoL_KDA_Result\bin\Release\LolKda.pdb
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\C# .NET Projects\LoL_KDA_Result\LoL_KDA_Result\obj\x86\Release\LolKda.Form_Main.resources
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\C# .NET Projects\LoL_KDA_Result\LoL_KDA_Result\obj\x86\Release\LolKda.Properties.Resources.resources
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\C# .NET Projects\LoL_KDA_Result\LoL_KDA_Result\obj\x86\Release\LolKda.csproj.GenerateResource.Cache
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\C# .NET Projects\LoL_KDA_Result\LoL_KDA_Result\obj\x86\Release\LolKda.exe
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\C# .NET Projects\LoL_KDA_Result\LoL_KDA_Result\obj\x86\Release\LolKda.pdb
